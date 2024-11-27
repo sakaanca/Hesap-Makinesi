@@ -16,6 +16,7 @@ Bu proje, temel matematiksel işlemleri gerçekleştirebileceğiniz basit bir **
 ## Proje Görünümü
 
 Aşağıda projenin kullanıcı arayüzü yer almaktadır:
+![image](https://github.com/user-attachments/assets/e9a469d0-c12f-4f83-a3bf-1df56ad6bb54)
 
 ![Hesap Makinesi Arayüzü](image.png)
 
